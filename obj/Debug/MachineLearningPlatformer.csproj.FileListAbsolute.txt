@@ -1,0 +1,9 @@
+C:\Users\finle\Desktop\A-Level_Computing\MachineLearningPlatformer\MachineLearningPlatformer\bin\Debug\MachineLearningPlatformer.exe.config
+C:\Users\finle\Desktop\A-Level_Computing\MachineLearningPlatformer\MachineLearningPlatformer\bin\Debug\MachineLearningPlatformer.exe
+C:\Users\finle\Desktop\A-Level_Computing\MachineLearningPlatformer\MachineLearningPlatformer\bin\Debug\MachineLearningPlatformer.pdb
+C:\Users\finle\Desktop\A-Level_Computing\MachineLearningPlatformer\MachineLearningPlatformer\obj\Debug\MachineLearningPlatformer.csprojResolveAssemblyReference.cache
+C:\Users\finle\Desktop\A-Level_Computing\MachineLearningPlatformer\MachineLearningPlatformer\obj\Debug\MachineLearningPlatformer.exe
+C:\Users\finle\Desktop\A-Level_Computing\MachineLearningPlatformer\MachineLearningPlatformer\obj\Debug\MachineLearningPlatformer.pdb
+E:\A-Level_Computing\MachineLearningPlatformer\MachineLearningPlatformer\bin\Debug\MachineLearningPlatformer.exe.config
+E:\A-Level_Computing\MachineLearningPlatformer\MachineLearningPlatformer\obj\Debug\MachineLearningPlatformer.exe
+E:\A-Level_Computing\MachineLearningPlatformer\MachineLearningPlatformer\obj\Debug\MachineLearningPlatformer.pdb
